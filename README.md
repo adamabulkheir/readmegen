@@ -1,7 +1,8 @@
-# README Gen
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+# README Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Description
-yes
+This application is run entirely in the VS Code terminal to generate a README.md file
 
 # Table of Contents
 [Description](#description)
@@ -11,14 +12,13 @@ yes
 [Credits](#credits)
 
 # Installation
-yes
+N/A
 
 # Usage
-yes
+Open project in VS Code ->Right click "index.js" -> Select "Open in Integrated Terminal" -> input "node index.js" -> Answer prompts to generate README.md
 
 # License
-IBM
-
+MIT
 
 # Credits
-yes
+Starter code provided by UCF-VIRT Bootcamp, I was assisted in completing this project by my peers and student support appointed tutor Trinh Nyguen.
