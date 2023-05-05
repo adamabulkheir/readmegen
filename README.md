@@ -1,8 +1,8 @@
-# README Generator
+# SVGen
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Description
-This application is run entirely in the VS Code terminal to generate a README.md file
+Js application to generate an SVG logo by answering a CLI prompt.
 
 # Table of Contents
 [Description](#description)
@@ -15,10 +15,10 @@ This application is run entirely in the VS Code terminal to generate a README.md
 N/A
 
 # Usage
-Open project in VS Code ->Right click "index.js" -> Select "Open in Integrated Terminal" -> input "node index.js" -> Answer prompts to generate README.md
+Run "node index.js" in the integrated terminal of the index file. Answer the prompts to generate a logo.svg file in the examples directory.
 
 # License
 MIT
 
 # Credits
-Starter code provided by UCF-VIRT Bootcamp, I was assisted in completing this project by my peers and student support appointed tutor Trinh Nyguen.
+Assisted by my peers.
