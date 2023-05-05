@@ -1,8 +1,8 @@
-# SVGen
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 # Description
-Js application to generate an SVG logo by answering a CLI prompt.
+A CLI application to generate README.md files
 
 # Table of Contents
 [Description](#description)
@@ -15,10 +15,10 @@ Js application to generate an SVG logo by answering a CLI prompt.
 N/A
 
 # Usage
-Run "node index.js" in the integrated terminal of the index file. Answer the prompts to generate a logo.svg file in the examples directory.
+https://drive.google.com/file/d/1JyHLdI0p3bJmyXnNcJDCgTHgB7soAwyp/view
 
 # License
-MIT
+Mozilla
 
 # Credits
-Assisted by my peers.
+My peers and my BCS tutor
